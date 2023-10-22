@@ -40,7 +40,9 @@ Enfim compilar o código fonte.
 # Autor
 
 Isadora Gomes Melo Cunha
+
 Livia Della 
+
 Clara Franca Passamani
 
 # projetoEstruturaDeDados
