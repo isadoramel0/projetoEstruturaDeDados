@@ -1,79 +1,47 @@
 # Projeto Estrutura De Dados 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/LICENSE)
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Projeto Estrutura De Dados é um trabalho com aplicação Back End construido durante o 2º periodo do curso de Ciência da Computação na faculdade Federal de Lavras(UFLA).
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+A aplicação até o atual momento consiste em conversão de arquivo CSV para binário, manipulação de arquivo binário e funções alteradas diretamente no "arquivo.bin", posteriormente na 2ª etapa do projeto deverá conter uma ordenação Externa(Salienta-se que o projeto ainda segue em desenvolvimento e esta não é a versão final).
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- C++
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+
+- Banco de dados: LMS
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: não consta
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# 1ª etapa: abrir repositório
+https://github.com/isadoramel0/projetoEstruturaDeDados
 
-# entrar na pasta do projeto back end
-cd backend
+# 2ª etapa: baixar código fonte
+//atualizar.
 
-# executar o projeto
-./mvnw spring-boot:run
-```
+#3ª etapa: baixar a base de Dados
+//atualizar,
 
-## Front end web
-Pré-requisitos: npm / yarn
+#4ªetapa: baixar o arquivo de conversão
+//atualizar
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
+# 5ª etapa: executar o projeto
+abrir o codigo fonte, a base de dados e o arquivo de conversão na IDE de sua preferência,
+(necessário que os tres estejam salvos na  mesma pasta) e compilar primeiramente o arquivo de conversão.
+Enfim compilar o código fonte.
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Isadora Gomes Melo Cunha
+Livia Della 
+Clara Franca Passamani
 
-https://www.linkedin.com/in/wmazoni
 # projetoEstruturaDeDados
 projeto desenvolvido por Isadora Melo, Clara Passamani e Livia Silva. O trabalho constitui em manipulação de arquivo binário e  funções diretamente aplicadas no arquivo binário
