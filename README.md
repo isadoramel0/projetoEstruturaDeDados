@@ -26,10 +26,10 @@ https://github.com/isadoramel0/projetoEstruturaDeDados
 https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/codigofonte.cpp
 
 #3ª etapa: baixar a base de Dados
-https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/conversor.cpp
+https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/lms-jun22qtr-csv%20(2).csv
 
 #4ªetapa: baixar o arquivo de conversão
-//atualizar
+https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/conversor.cpp
 
 # 5ª etapa: executar o projeto
 abrir o codigo fonte, a base de dados e o arquivo de conversão na IDE de sua preferência,
