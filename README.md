@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Projeto Estrutura De Dados é um trabalho com aplicação Back End construido durante o 2º periodo do curso de Ciência da Computação na faculdade Federal de Lavras(UFLA).
+Projeto Estrutura De Dados é um trabalho com aplicação Back End construido durante o 2º periodo do curso de Ciência da Computação na Universidade Federal de Lavras(UFLA).
 
-A aplicação até o atual momento consiste em conversão de arquivo CSV para binário, manipulação de arquivo binário e funções alteradas diretamente no "arquivo.bin", posteriormente na 2ª etapa do projeto deverá conter uma ordenação Externa(Salienta-se que o projeto ainda segue em desenvolvimento e esta não é a versão final).
+A aplicação até o atual momento consiste em conversão de arquivo CSV para binário, manipulação de arquivo binário e funções alteradas diretamente no "binario.dat", posteriormente na 2ª etapa do projeto deverá conter uma ordenação Externa(Salienta-se que o projeto ainda segue em desenvolvimento e esta não é a versão final).
 
 # Tecnologias utilizadas
 ## Back end
@@ -23,7 +23,7 @@ Pré-requisitos: não consta
 https://github.com/isadoramel0/projetoEstruturaDeDados
 
 # 2ª etapa: baixar código fonte
-//atualizar.
+
 
 #3ª etapa: baixar a base de Dados
 //atualizar,
@@ -41,7 +41,7 @@ Enfim compilar o código fonte.
 
 Isadora Gomes Melo Cunha
 
-Livia Della 
+Livia Della Garza Silva
 
 Clara Franca Passamani
 
