@@ -5,7 +5,7 @@
 
 Projeto Estrutura De Dados é um trabalho com aplicação Back End construido durante o 2º periodo do curso de Ciência da Computação na Universidade Federal de Lavras(UFLA).
 
-A aplicação até o atual momento consiste em conversão de arquivo CSV para binário, manipulação de arquivo binário e funções alteradas diretamente no "binario.dat", posteriormente na 2ª etapa do projeto deverá conter uma ordenação Externa(Salienta-se que o projeto ainda segue em desenvolvimento e esta não é a versão final).
+A aplicação final consiste em conversão de arquivo CSV para binário, manipulação de arquivo binário, funções alteradas diretamente no "binario.dat" e ordenação externa por meio do algoritmo Merge Sort.
 
 # Tecnologias utilizadas
 ## Back end
@@ -35,6 +35,9 @@ https://github.com/isadoramel0/projetoEstruturaDeDados/blob/main/conversor.cpp
 abrir o codigo fonte, a base de dados e o arquivo de conversão na IDE de sua preferência,
 (necessário que os tres estejam salvos na  mesma pasta) e compilar primeiramente o arquivo de conversão.
 Enfim compilar o código fonte.
+
+# 6ªetapa: executar ordenação externa
+abrir o código "ordena.cpp" e executá-lo na IDE de sua preferência, salienta-se que o arquivo binário a ser ordenado deve estar hospedado na mesma pasta que o "ordena.cpp"
 ```
 
 # Autor
